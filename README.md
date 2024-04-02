@@ -1,5 +1,5 @@
-# GitRepoSearcherApp_1901321052_RafetHalil
+# GitRepoSearcherApp
 
-Използвани технологии: 
-    Hilt, Dagger, Retrofit, Glide, Jetpack navigation,  Paging 
+Used Technologies: 
+    Hilt, Dagger, Retrofit, Glide, Jetpack navigation, Paging 
     and Internet access for searching and opening repositories in the browser!
